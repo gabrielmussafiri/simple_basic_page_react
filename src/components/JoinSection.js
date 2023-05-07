@@ -1,6 +1,7 @@
+import "./JoinSection.css";
 function JoinSection() {
   return (
-    <section class="join">
+    <section className="join">
       <h2> Join Today!</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit molestias

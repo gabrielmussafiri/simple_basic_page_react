@@ -1,9 +1,10 @@
+import "./Nav.css";
 function Nav() {
   return (
     <nav className="main-nav">
       <ul>
         <li>
-          <a href="/join.html" class="join">
+          <a href="/join.html" className="join">
             Join the Club
           </a>
         </li>

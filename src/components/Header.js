@@ -1,6 +1,7 @@
+import "./Header.css";
 function Header() {
   return (
-    <header className="header">
+    <header>
       <h1> MarioClub</h1>
     </header>
   );

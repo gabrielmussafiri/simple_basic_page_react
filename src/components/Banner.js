@@ -1,6 +1,7 @@
+import "./Banner.css";
 function Banner() {
   return (
-    <section class="banner">
+    <section className="banner">
       <img src="./banner.png" alt="Welcome banner" />
       <div class="welcome">
         <h2>
