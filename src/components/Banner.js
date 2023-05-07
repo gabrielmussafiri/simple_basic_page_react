@@ -1,7 +1,7 @@
 function Banner() {
   return (
     <section class="banner">
-      <img src="img/banner.png" alt="Welcome banner" />
+      <img src="./banner.png" alt="Welcome banner" />
       <div class="welcome">
         <h2>
           Welcome to <br />

@@ -18,10 +18,10 @@ function Main() {
       </article>
       <ul className="images">
         <li>
-          <img src="img/thumb-1.png" alt="" />
+          <img src="./thumb-1.png" alt="" />
         </li>
         <li>
-          <img src="img/thumb-2.png" alt="" />
+          <img src="./thumb-2.png" alt="" />
         </li>
       </ul>
     </main>
