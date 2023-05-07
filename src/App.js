@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import Banner from "./components/Banner";
 import Nav from "./components/Nav";
 import Main from "./components/Main";
+import JoinSection from "./components/JoinSection";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Banner />
       <Nav />
       <Main />
+      <JoinSection />
     </div>
   );
 }
